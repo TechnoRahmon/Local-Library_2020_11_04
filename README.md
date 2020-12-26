@@ -23,7 +23,7 @@ RateBook, GetBooks, GetBook, AddBook, UpdateBook, and RemoveBook actions.
 
 -implement password hashing using bcrypt, while serving the user’s data into the MongoDB database.
 
-# The endpoints to be implemented are:
+# The endpoints that are implemented :
 
 • POST /api/books: Add new books
 
