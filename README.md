@@ -60,4 +60,4 @@ then:
 
 ### ``` npm start ```
 
-you gonna see the project running at http://localhost:7000
+you gonna use http://localhost:7000 end point to send the requests from the Postman 
